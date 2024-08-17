@@ -1,0 +1,10 @@
+DB information
+
+CREATE DATABASE JPA;
+
+CREATE TABLE Users (
+    userid      INT             NOT NULL,  
+    username  VARCHAR(14)            NOT NULL,
+    email  VARCHAR(14)     NOT NULL,
+    PRIMARY KEY (userid)                   
+);

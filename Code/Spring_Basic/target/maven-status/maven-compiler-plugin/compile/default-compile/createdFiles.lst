@@ -1,0 +1,16 @@
+beancreation\Employee.class
+autowire\AutowiringA.class
+autowire\AutowiringB.class
+beancreation\XmlBeanCreation.class
+beancreation\ComponentBeanCreation.class
+model\Address.class
+beancreation\BeanAnnotCreation.class
+model\Student.class
+beancreation\EmployeeConfig.class
+model\Employee.class
+model\Question.class
+dependencyinjection\ConstructorInjection.class
+model\Answer.class
+model\User.class
+beancreation\User.class
+dependencyinjection\SetterInjection.class

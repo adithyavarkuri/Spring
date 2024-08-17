@@ -1,0 +1,6 @@
+CREATE TABLE STUDENT(
+id INT,
+name VARCHAR(45),
+department VARCHAR(45));
+
+INSERT INTO STUDENT VALUES(1, "Adithya", "computer science");
